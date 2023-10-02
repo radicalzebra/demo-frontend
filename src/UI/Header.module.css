@@ -1,0 +1,11 @@
+.header {
+   display: flex;
+   justify-content:space-between;
+   /* max-width:40rem; */
+   min-width:10%;
+   font-family:dosis;
+   font-weight:700;
+   /* background-color: red; */
+   gap:5rem;
+   /* background-color: blue; */
+}
